@@ -1,0 +1,6 @@
+Rencana Konten :
+1. Javascript
+   - ES6
+   - Framework Javascript
+2. PHP Framework
+3. Vlog
