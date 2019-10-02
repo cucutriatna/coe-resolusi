@@ -3,6 +3,7 @@ Rencana Konten :
    - ES6
    - Framework Javascripte
      * Vue
+     * React
 2. PHP Framework
    * Laravel
 3. Vlog
