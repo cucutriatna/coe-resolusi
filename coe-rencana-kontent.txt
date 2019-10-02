@@ -2,6 +2,8 @@ Rencana Konten :
 1. Javascript
    - ES6
    - Framework Javascript
+     * Angular 
+     * React
 2. PHP Framework
+   * Laravel
 3. Vlog
-4. Struktur Data Dasar
